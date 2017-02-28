@@ -1,0 +1,1 @@
+This is a test of the enigma machine! This message is a secret and it is longer than 26 characters which is very exciting yes the rotors will spin around many times and encipher this long message hooray for life and love and Cryptography.
