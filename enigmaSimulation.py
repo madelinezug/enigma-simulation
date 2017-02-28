@@ -4,7 +4,7 @@
 # Cryptography
 # Harvey Mudd College
 #
-# Start with a changing wiring
+
 import re
 import collections
 
