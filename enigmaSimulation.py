@@ -8,7 +8,7 @@
 import re
 import collections
 
-#Configure rotors
+#Configure rotor wiring, notches, and original positions
 rotor_notches = list("amhe")
 rotor1 = list("abcdefghijklmnopqrstuvwxyz")
 rotor1_wiring = [18, 1, 23, 16, 2, 22, 3, 11, 12, 24, 25, 4, 17, 5, 19, 13, 6, 7, 15, 8, 21, 0, 14, 9, 20, 10]
@@ -17,7 +17,7 @@ rotor2_wiring = [23, 16, 2, 22, 24, 7, 15, 8, 21, 0, 14, 9, 20, 10, 18, 1, 25, 4
 rotor3 = list("hzctuqgldwxjfaybveimpsrkno")
 rotor3_wiring = [18, 4, 14, 5, 15, 8, 21, 19, 13, 1, 23,  11, 12, 24, 25, 6, 7, 0, 17, 9, 20, 16, 2, 22, 3, 10]
 rotor4 = list("esxtukmaopgijwbnczlydqrfvh")
-rotor4_wiring = [18,  3, 2,12, 11, 10, 9, 8, 7, 6, 5, 25, 24,  19, 4,  1, 22, 21, 20,15, 14,0, 17, 16, 23,  13]
+rotor4_wiring = [18, 3, 2,12, 11, 10, 9, 8, 7, 6, 5, 25, 24, 19, 4, 1, 22, 21, 20,15, 14, 0, 17, 16, 23, 13]
 reflector = list("czuaomrfplvhxtgydqnikesjwb")
 reflector_wiring = [25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 
