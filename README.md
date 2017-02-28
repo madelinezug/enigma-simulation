@@ -3,7 +3,7 @@ A simulation of the enigma machine for Harvey Mudd's Cryptography class
 
 ##Possible improvements
 The enigma machine isn't super practical to use now that we have algorithms like RSA and AES.
-However, if we wanted to improve the enigma machine and make it more difficult to crack messages enciphered by it we could:
+However, if we wanted to improve the enigma machine and make it more difficult to crack we could:
 
 1. Increase the number of rotors
 
